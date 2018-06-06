@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity implements Button.OnClickLis
     private MyHandler myHandler = new MyHandler();
     //注释
     //好难啊
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
